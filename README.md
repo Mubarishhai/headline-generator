@@ -1,6 +1,6 @@
 # 📰 Fake News Headline Generator
 
-**Author: Shaikh Mubarish GT
+**Author: Shaikh Mubarish GT ct
 
 A fun Python script that generates random and hilarious fake news
 headlines.
