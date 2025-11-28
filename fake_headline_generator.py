@@ -3,7 +3,7 @@
 #   Author: Shaikh Mubarish GT
 #   Created By: Shaikh Mubarish
 #   Written With ❤️ by Mubarish
-#   Version: 2.0 (Upgraded Edition)
+#   Version: 2.0 (Upgraded Edition).
 # ============================================================
 
 import random
