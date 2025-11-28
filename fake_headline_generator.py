@@ -1,8 +1,19 @@
+# ============================================================
+#   FAKE NEWS HEADLINE GENERATOR - PYTHON PROJECT
+#   Author: Shaikh Mubarish GT
+#   Created By: Shaikh Mubarish
+#   Written With ❤️ by Mubarish
+#   Version: 2.0 (Upgraded Edition)
+# ============================================================
 
-#    — Author: Shaikh Mubarish gt
 import random
+import os
+import time
 
-# list of subjects
+# ------------------------------------------------------------
+# Lists Created & Curated By: Shaikh Mubarish
+# ------------------------------------------------------------
+
 subjects = [
     "Shahrukh Khan",
     "Virat Kohli",
@@ -10,42 +21,71 @@ subjects = [
     "A Mumbai Cat",
     "Group of Monkeys",
     "Prime Minister Modi",
-    "Auto Rickshaw driver from Delhi"
+    "Auto Rickshaw Driver from Delhi",
+    "A Scared Software Engineer",
+    "A Confused Python Coder"
 ]
 
-# list of actions
 actions = [
     "Launches",
     "Cancels",
     "Dances with",
     "Eats",
     "Declares war on",
-    "Orders",
-    "Celebrates"
+    "Orders 100 plates of",
+    "Starts crying over",
+    "Becomes best friends with"
 ]
 
-# list of places/things
 place_or_things = [
     "at Red Fort",
-    "in Mumbai local train",
+    "in Mumbai Local Train",
     "at Sai Road, Latur",
     "near Taj Mahal",
-    "during IPL match",
-    "inside Parliament"
+    "during IPL Match",
+    "inside Parliament",
+    "on a flying helicopter",
+    "while stuck in traffic"
 ]
 
-# Loop
+endings = [
+    "— Public shocked!",
+    "— Internet can't handle this!",
+    "— Social media on fire! 🔥",
+    "— Experts have no explanation 🤯",
+    "— Fans celebrating worldwide 🎉",
+    "— Nation wants to know more!"
+]
+
+emojis = ["😂", "😳", "🔥", "🤣", "💥", "😱", "🤡", "🥳", "🫡"]
+
+
+def clear_screen():
+    os.system("cls" if os.name == "nt" else "clear")
+
+
+# MAIN PROGRAM LOOP
 while True:
+    clear_screen()
+
+    print("==============================================")
+    print("        📰 FAKE NEWS HEADLINE GENERATOR        ")
+    print("==============================================")
+    print("              Author: Shaikh Mubarish         ")
+    print("==============================================")
 
     sub = random.choice(subjects)
     act = random.choice(actions)
     pot = random.choice(place_or_things)
+    end = random.choice(endings)
+    emoji = random.choice(emojis)
 
-    headline = f"BREAKING NEWS: {sub} {act} {pot}"
-    print("\n" + headline)
+    headline = f"\nBREAKING NEWS: {sub} {act} {pot}! {end} {emoji}"
+    print(headline)
 
-    user_input = input("\nDo you wish to continue? (y/n): ").strip().lower()
+    user_input = input("\nDo you want another headline? (y/n): ").strip().lower()
     if user_input == "n":
         break
 
-print("\nTHANKS FOR USING THE FAKE NEWS HEADLINE GENERATOR\n")
+print("\nTHANK YOU FOR USING THE FAKE NEWS GENERATOR! 🎯")
+print("Created By: Shaikh Mubarish GT\n")
