@@ -35,6 +35,7 @@ actions = [
     "Orders 100 plates of",
     "Starts crying over",
     "Becomes best friends with"
+    'Becomes Hydrabadi'
 ]
 
 place_or_things = [
