@@ -18,6 +18,7 @@ subjects = [
     "Shahrukh Khan",
     "Virat Kohli",
     "Nirmala Sitharaman",
+    "Mahesh Babu"
     "A Mumbai Cat",
     "Group of Monkeys",
     "Prime Minister Modi",
@@ -36,6 +37,7 @@ actions = [
     "Starts crying over",
     "Becomes best friends with"
     'Becomes Hydrabadi'
+    "Latur ki public bolti"
 ]
 
 place_or_things = [
@@ -43,6 +45,7 @@ place_or_things = [
     "in Mumbai Local Train",
     "at Sai Road, Latur",
     "near Taj Mahal",
+    "motu patlu ki jodi"
     "during IPL Match",
     "inside Parliament",
     "on a flying helicopter",
