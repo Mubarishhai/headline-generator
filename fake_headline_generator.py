@@ -25,12 +25,14 @@ subjects = [
     "Auto Rickshaw Driver from Delhi",
     "A Scared Software Engineer",
     "A Confused Python Coder"
+    "amitab bachan"
 ]
 
 actions = [
     "Launches",
     "Cancels",
     "Dances with",
+    'going to ghatkoper'
     "Eats",
     "Declares war on",
     "Orders 100 plates of",
