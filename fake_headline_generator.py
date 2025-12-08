@@ -16,6 +16,7 @@ import time
 
 subjects = [
     "Shahrukh Khan",
+    "AKSHAY KUMMAAR"
     "Virat Kohli",
     "Nirmala Sitharaman",
     "Mahesh Babu"
