@@ -18,6 +18,7 @@ subjects = [
     "Shahrukh Khan",
     "AKSHAY KUMMAAR"
     "Virat Kohli",
+    "Salmaan Khan",
     "Nirmala Sitharaman",
     "Mahesh Babu"
     "A Mumbai Cat",
@@ -48,6 +49,7 @@ place_or_things = [
     "in Mumbai Local Train",
     "at Sai Road, Latur",
     "near Taj Mahal",
+    "enter the bigboss house",
     "motu patlu ki jodi"
     "during IPL Match",
     "inside Parliament",
