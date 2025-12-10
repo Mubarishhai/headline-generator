@@ -50,6 +50,7 @@ place_or_things = [
     "at Sai Road, Latur",
     "near Taj Mahal",
     "enter the bigboss house",
+    "enter the reading room"
     "motu patlu ki jodi"
     "during IPL Match",
     "inside Parliament",
@@ -59,6 +60,7 @@ place_or_things = [
 
 endings = [
     "— Public shocked!",
+    "_everyone is dancing"
     "— Internet can't handle this!",
     "— Social media on fire! 🔥",
     "— Experts have no explanation 🤯",
