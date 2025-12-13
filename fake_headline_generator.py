@@ -41,7 +41,8 @@ actions = [
     "Starts crying over",
     "Becomes best friends with"
     'Becomes Hydrabadi'
-    "come to latur"
+    "come to latur",
+    "dubie burj"
     "Latur ki public bolti"
 ]
 
