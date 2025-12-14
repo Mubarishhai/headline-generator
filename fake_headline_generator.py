@@ -21,6 +21,7 @@ subjects = [
     "Salmaan Khan",
     "Nirmala Sitharaman",
     "Mahesh Babu"
+    "allu artjun"
     "A Mumbai Cat",
     "Group of Monkeys",
     "Prime Minister Modi",
