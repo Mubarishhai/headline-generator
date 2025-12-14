@@ -34,6 +34,7 @@ subjects = [
 actions = [
     "Launches",
     "Cancels",
+    "shaadi"
     "Dances with",
     'going to ghatkoper'
     "Eats",
