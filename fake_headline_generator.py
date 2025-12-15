@@ -43,6 +43,7 @@ actions = [
     "Starts crying over",
     "Becomes best friends with"
     'Becomes Hydrabadi'
+    "latur golai"
     "come to latur",
     "dubie burj"
     "Latur ki public bolti"
