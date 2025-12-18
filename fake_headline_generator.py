@@ -45,6 +45,7 @@ actions = [
     'Becomes Hydrabadi'
     "latur golai"
     "cocsit colloge"
+    "reading "
     "come to latur",
     "dubie burj"
     "Latur ki public bolti"
