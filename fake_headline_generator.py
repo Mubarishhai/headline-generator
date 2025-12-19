@@ -44,6 +44,7 @@ actions = [
     "Becomes best friends with"
     'Becomes Hydrabadi'
     "latur golai"
+    "laufhter chef"
     "cocsit colloge"
     "reading "
     "come to latur",
