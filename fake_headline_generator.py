@@ -43,8 +43,8 @@ actions = [
     "Starts crying over",
     "Becomes best friends with"
     'Becomes Hydrabadi'
-    "latur golai"
-    "laufhter chef"
+    "latur golai",
+    "laufhter chef",
     "cocsit colloge"
     "reading "
     "come to latur",
