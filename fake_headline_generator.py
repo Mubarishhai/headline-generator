@@ -74,6 +74,7 @@ endings = [
     "— Social media on fire! 🔥",
     "— Experts have no explanation 🤯",
     "— Fans celebrating worldwide 🎉",
+    "-khana kha rahe hai sab milke"
     "— Nation wants to know more!"
 ]
 
