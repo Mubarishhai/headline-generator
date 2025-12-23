@@ -56,7 +56,6 @@ actions = [
 place_or_things = [
     "at Red Fort",
     "in Mumbai Local Train",
-    "at Sai Road, Latur",
     "near Taj Mahal",
     "enter the bigboss house",
     "enter the reading room"
