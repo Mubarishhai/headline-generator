@@ -50,7 +50,7 @@ actions = [
     "reading "
     "come to latur",
     "dubie burj"
-    "Latur ki public bolti"
+    "Latur ki public bolt"
 ]
 
 place_or_things = [
