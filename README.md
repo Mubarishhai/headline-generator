@@ -16,6 +16,6 @@ Perfect for beginners who want to learn randomization, loops, and CLI interactiv
 - 🧼 Auto-clears screen like a real news ticker  
 - 👤 Author name fully included & displayed in UI
 
----
+
 
 ## 📸 Example Output
