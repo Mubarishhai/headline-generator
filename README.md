@@ -19,4 +19,3 @@ Perfect for beginners who want to learn randomization, loops, and CLI interactiv
 ---
 
 ## 📸 Example Output
-
