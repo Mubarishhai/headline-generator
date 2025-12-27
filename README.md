@@ -17,5 +17,4 @@ Perfect for beginners who want to learn randomization, loops, and CLI interactiv
 - 👤 Author name fully included & displayed in UI
 
 
-
 ## 📸 Example Output
