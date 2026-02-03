@@ -29,6 +29,7 @@ subjects = [
     "A Scared Software Engineer",
     "A Confused Python Coder"
     "amitab bachan"
+    "valinetine day"
 ]
 
 actions = [
